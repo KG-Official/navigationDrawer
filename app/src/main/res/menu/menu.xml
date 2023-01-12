@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_homeFragment"
+        android:checkable="true"
+        android:checked="true"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+        <item
+            android:id="@+id/id_aboutFragment"
+            android:checkable="true"
+            android:checked="true"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+        <item
+            android:id="@+id/id_settingFragment"
+            android:checkable="true"
+            android:checked="true"
+            android:icon="@drawable/ic_settings"
+            android:title="Setting" />
+        <item
+            android:id="@+id/id_shareFragment"
+            android:checkable="true"
+            android:checked="true"
+            android:icon="@drawable/ic_share"
+            android:title="Share" />
+</menu>
